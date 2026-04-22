@@ -1,4 +1,4 @@
-# Desafio Técnico — QA Lead | INO Games
+# Desafio Técnico - QA Lead | INO Games
 
 **Candidato:** Thales Fernandes  
 **Cargo:** QA Lead  
