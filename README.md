@@ -15,7 +15,7 @@ Cenário baseado na **Nebula Forge Studios**, um estúdio de games em cresciment
 - 40% dos bugs detectados tardiamente
 - Time com 2 QAs juniores, sem regressão estruturada
 
-O objetivo é propor um plano de melhoria de qualidade sem comprometer a velocidade de entrega.
+O meu objetivo é propor um plano de melhoria de qualidade sem comprometer a velocidade de entrega.
 
 ---
 
@@ -44,7 +44,7 @@ Apresentação executiva com 10 slides cobrindo todas as questões do desafio:
 ### 📄 Documento Completo (Word)
 `Desafio_QA_Lead_INO_Games.docx`
 
-Documento detalhado com todas as 7 respostas do desafio, textos explicativos, tabelas e o gráfico de Gantt incorporado.
+Documento detalhado com todas as 7 respostas do desafio, textos explicativos, tabelas e um gráfico de Gantt incorporado.
 
 ---
 
@@ -73,11 +73,3 @@ Bug crítico afetando 20% dos jogadores → recomendação de adiamento de 48h. 
 
 **Diferencial proposto — Feature Flags**  
 Implementação de feature flags para rollout gradual (10% → 50% → 100%) e reversão instantânea em caso de bug crítico pós-release, sem necessidade de novo build.
-
----
-
-## Sobre o Candidato
-
-QA Sênior em transição para liderança, com foco em qualidade como cultura — não como portão de saída. Acredita que processo sem confiança não sobrevive à primeira sprint.
-
-> *"Um bug crítico que afeta 20% dos jogadores não é um problema de QA — é um problema de receita e de reputação. Meu trabalho é fazer o time enxergar isso antes que aconteça, não depois."*
