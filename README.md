@@ -65,11 +65,11 @@ QA presente em todas as fases: do planejamento ao pós-release, com intensidade 
 **5. Delegação**  
 Juniores executam smoke tests, regressões e documentação de bugs. QA Lead define processos, conduz exploratórios em áreas críticas, faz mentoria e gerencia a comunicação de risco.
 
-**6. Capacitação — QA Guild**  
+**6. Capacitação: QA Guild**  
 Programa de 8 semanas com sessões quinzenais: técnicas de teste, escrita de bug reports, pair testing e apresentação final dos juniores. Objetivo: criar cultura de ownership, não só habilidade técnica.
 
 **7. Decisão de release**  
 Bug crítico afetando 20% dos jogadores → recomendação de adiamento de 48h. Se negócio decidir lançar: risco documentado formalmente, plano de hotfix pronto e monitoramento imediato pós-release.
 
-**Diferencial proposto — Feature Flags**  
+**Diferencial proposto: Feature Flags**  
 Implementação de feature flags para rollout gradual (10% → 50% → 100%) e reversão instantânea em caso de bug crítico pós-release, sem necessidade de novo build.
